@@ -1,7 +1,5 @@
 # 🏴‍☠️✨ Crypto Paper Zoo
 
-### April/2021 Update: This project is going through big breaking changes. Stay tunned.
-
 
 ----
 
